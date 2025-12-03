@@ -2,7 +2,7 @@
 
 A collection of my LeetCode problem solutions, organized by problem number and stored in separate files for easy navigation.  
 This repository helps me practice algorithms, data structures, and common coding interview patterns.
-
+Averagely, the solutions **beat over 90%** of other solutions on LeetCode.
 ## 📂 Structure
 
 Each problem lives in its own file under /solutions directory:
